@@ -1,0 +1,23 @@
+<?php
+	include('tpl/overall_header.html');
+?>
+			
+			<div data-role="content">
+				<p>Main Page</p>
+			</div>
+
+			<div data-role="footer" data-position="fixed" data-fullscreen="true">
+				<div data-role="navbar">
+					<ul>
+						<li><a href="/" data-icon="home">Main</a></li>
+						<li><a href="pages/locations" data-rel="dialog" data-icon="home">Location</a></li>
+						<li><a href="pages/settings" data-rel="dialog" data-icon="home">Settings</a></li>
+					</ul>
+				</div>
+				<h1>Powered By Chaos</h1>
+			</div>
+			
+		</div> 
+	</body>
+	
+</html>
