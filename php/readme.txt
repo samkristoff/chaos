@@ -1,1 +1,1 @@
-This folder contains web services for public use.
+This folder contains php code for internal use.
